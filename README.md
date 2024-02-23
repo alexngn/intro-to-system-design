@@ -136,6 +136,10 @@ The playlist above is one of the clearest explanations I’ve ever seen and high
 ### [CSES Problem Set](https://cses.fi/problemset/)
 These problems are hard. Really hard for anyone who hasn’t practiced algorithms and is not beginner friendly. But if you are able to complete the sorting and searching section, you will be more capable than the average LeetCode user and be more than ready for your coding interview.
 
+### [MeetAPro: an AirBnB style mock interview platform](https://www.meetapro.com/?utm_source=alexgh)
+MeetAPro is the most cost-effective mock interview platform in the market. It connects job seekers with seasoned FAANG interviewers who provide invaluable feedback, getting you ready for real-life interviews.
+
+
 Consider this if you’re comfortable with LeetCode medium questions and find the questions in CTCI too easy.
 
 
